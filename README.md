@@ -19,3 +19,5 @@ Seriously calm down. And look at these resources.
 5 [Githubs suggested help](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
 
 6 [Danny made a cheat sheet](https://gist.github.com/dfenjves/6c3832ae7c9d1cf504f2)
+
+7 [Visual Git](http://pcottle.github.io/learnGitBranching/)
