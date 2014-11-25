@@ -4,7 +4,7 @@ languages: git
 type: resource
 ---
 
-##Gitting Into it
+##Gitting Into It
 
 Git is one of the most popular Version Control Systems around, but what is version control, anyway? Head over to the [git-scm.com](http://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) site to find out how exactly git keeps all your code snapshots neat and organized.
 
