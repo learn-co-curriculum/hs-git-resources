@@ -1,8 +1,4 @@
----
-tags: kids, ruby, git
-languages: git
-type: resource
----
+
 
 ##Gitting Into It
 
